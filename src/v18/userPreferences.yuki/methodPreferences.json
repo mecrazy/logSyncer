@@ -1,0 +1,101 @@
+﻿{
+	"Sources/Methods/LS_Start.4dm": {
+		"startSelection": 16,
+		"endSelection": 0,
+		"firstSelectedLine": 57,
+		"lastSelectedLine": 54,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-08T02:41:46.937Z"
+	},
+	"Sources/Methods/trim.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 14,
+		"lastSelectedLine": 14,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-08T01:43:27.535Z"
+	},
+	"Sources/Methods/LS_Host.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 24,
+		"lastSelectedLine": 24,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-08T03:34:51.594Z"
+	},
+	"Sources/Methods/LS_Mirror.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-08T02:37:22.218Z"
+	},
+	"Sources/Methods/LS_Stop.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-08T02:36:49.744Z"
+	},
+	"Sources/Methods/processList.4dm": {
+		"startSelection": 25,
+		"endSelection": 25,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-08T02:20:47.519Z"
+	},
+	"Sources/Methods/processVisible.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 50,
+		"lastSelectedLine": 50,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-08T02:31:47.244Z"
+	},
+	"Sources/Methods/cast.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-08T02:41:41.599Z"
+	},
+	"Sources/Methods/LSM_Dir.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-08T02:44:45.742Z"
+	},
+	"Sources/Methods/LSH_Dir.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 19,
+		"lastSelectedLine": 19,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-08T02:45:00.380Z"
+	},
+	"Sources/Methods/datetime.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 76,
+		"lastSelectedLine": 76,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-11-08T03:29:07.435Z"
+	}
+}

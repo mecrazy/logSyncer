@@ -1,0 +1,68 @@
+﻿{
+	"Sources/Methods/LS_Start.4dm": {
+		"left": 722,
+		"top": 191,
+		"width": 947,
+		"height": 788
+	},
+	"Sources/Methods/trim.4dm": {
+		"left": 340,
+		"top": 281,
+		"width": 947,
+		"height": 788
+	},
+	"Sources/Methods/LS_Host.4dm": {
+		"left": 340,
+		"top": 281,
+		"width": 947,
+		"height": 788
+	},
+	"Sources/Methods/LS_Mirror.4dm": {
+		"left": 340,
+		"top": 281,
+		"width": 947,
+		"height": 788
+	},
+	"Sources/Methods/LS_Stop.4dm": {
+		"left": 340,
+		"top": 281,
+		"width": 947,
+		"height": 788
+	},
+	"Sources/Methods/processList.4dm": {
+		"left": 340,
+		"top": 281,
+		"width": 947,
+		"height": 788
+	},
+	"Sources/Methods/processVisible.4dm": {
+		"left": 340,
+		"top": 281,
+		"width": 947,
+		"height": 788
+	},
+	"Sources/Methods/cast.4dm": {
+		"left": 340,
+		"top": 281,
+		"width": 947,
+		"height": 788
+	},
+	"Sources/Methods/LSM_Dir.4dm": {
+		"left": 340,
+		"top": 281,
+		"width": 947,
+		"height": 788
+	},
+	"Sources/Methods/LSH_Dir.4dm": {
+		"left": 340,
+		"top": 281,
+		"width": 947,
+		"height": 788
+	},
+	"Sources/Methods/datetime.4dm": {
+		"left": 895,
+		"top": 218,
+		"width": 947,
+		"height": 788
+	}
+}

@@ -1,0 +1,40 @@
+﻿{
+	"methods": {
+		"cast": {
+			"timeStamp": "2022-11-08T02:41:41.599Z"
+		},
+		"datetime": {
+			"timeStamp": "2022-11-08T03:29:07.435Z"
+		},
+		"LSH_Dir": {
+			"timeStamp": "2022-11-08T02:45:00.380Z"
+		},
+		"LSM_Dir": {
+			"timeStamp": "2022-11-08T02:44:45.742Z"
+		},
+		"LS_Host": {
+			"timeStamp": "2022-11-08T03:34:51.594Z"
+		},
+		"LS_Mirror": {
+			"timeStamp": "2022-11-08T02:37:22.218Z"
+		},
+		"LS_Start": {
+			"timeStamp": "2022-11-08T02:41:46.937Z",
+			"attributes": {
+				"shared": true
+			}
+		},
+		"LS_Stop": {
+			"timeStamp": "2022-11-08T02:36:49.744Z"
+		},
+		"processList": {
+			"timeStamp": "2022-11-08T02:20:47.519Z"
+		},
+		"processVisible": {
+			"timeStamp": "2022-11-08T02:31:47.244Z"
+		},
+		"trim": {
+			"timeStamp": "2022-11-08T01:43:27.535Z"
+		}
+	}
+}

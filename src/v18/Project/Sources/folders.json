@@ -1,0 +1,38 @@
+﻿{
+	"(テーブル)": {},
+	"(デフォルト)": {
+		"groups": [
+			"(テーブル)",
+			"(フォーム)",
+			"(プロジェクトメソッド)"
+		]
+	},
+	"(フォーム)": {},
+	"(プロジェクトメソッド)": {},
+	"common": {
+		"methods": [
+			"cast",
+			"datetime",
+			"processList",
+			"processVisible",
+			"trim"
+		]
+	},
+	"host": {
+		"methods": [
+			"LS_Host",
+			"LSH_Dir"
+		]
+	},
+	"mirror": {
+		"methods": [
+			"LS_Mirror",
+			"LSM_Dir"
+		]
+	},
+	"trash": {
+		"groups": [
+			"(デフォルト)"
+		]
+	}
+}
